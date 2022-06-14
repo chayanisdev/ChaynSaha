@@ -4,9 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 💿 &nbsp; Working on **CyberNodes**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -24,7 +23,6 @@
 
 <a href="https://github.com/NotTechnical">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NotTechnical&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotTechnical&theme=buefy&layout=compact" />
 </a>
 
 <br/>
