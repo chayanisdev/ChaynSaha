@@ -4,8 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying on a school.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Pterodactyl Panel, Linux.
-- 💿 &nbsp; Working on **CyberNodes**.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Pterodactyl Panel, Linux, Python, PHP.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
